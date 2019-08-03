@@ -5,22 +5,17 @@
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Run project in dev mode 
 ```
-npm run serve
+npm run dev
 ```
 
-### Compiles and minifies for production
+### Run project in production mode
 ```
 npm run build
 ```
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
+### Test lint format
 ```
 npm run lint
 ```
