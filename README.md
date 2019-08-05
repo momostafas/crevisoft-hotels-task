@@ -7,7 +7,7 @@ npm install
 
 ### Run project in dev mode 
 ```
-npm run dev
+npm run serve
 ```
 
 ### Run project in production mode
